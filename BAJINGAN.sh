@@ -20,14 +20,14 @@ echo $red
 cat asw.txt
 echo ""
 echo "\033[34;1m[$]\033[36;1m============================\033[34;1m[$]"
-echo "\033[32;1mAuthor : Mr.B4J1N64N"
-echo "\033[37;1mFeat: Mr.IM81"
+echo "\033[32;1mAuthor : Mr.KINTIL"
+echo "\033[37;1mFeat: Mr.JACK+Mr.Kandol"
 echo "\033[35;1mversion Tools: 6"
-echo "\033[35;1mTeam : DARKNESS CYBER TEAM"
-echo "\033[33;1mKontak Me :  083108271123"
+echo "\033[35;1mTeam : ANONYMOUS ALL INDONESIA"
+echo "\033[33;1mKontak Me :  Rahasia"
 echo "\033[31;1mPlease For Subcribe Youtube:"
-echo "\033[92mDarkness Cyber Team" 
-echo "\033[36;1mIndonesia Security Lite"
+echo "\033[92mKepo" 
+echo "\033[36;1mG45 CYBER TEAM"
 echo "\033[34;1m[$]\033[36;1m============================\033[34;1m[$]"
 echo ""
 echo "\033[32;1mSilahkan Pilih Tools Yang mau Kamu pake:)?:"
@@ -441,7 +441,7 @@ read -p "root@T00Ls-B4J1N64Nv6~#" bro
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.KINTIL" | lolcat
 php tp.php
 fi
 
@@ -449,76 +449,76 @@ if
 [ $bro = 2 ] || [ $bro = 2 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.KINTIL"
 php t.php
 fi
 
 if [ $bro = 3 ] || [ $bro = 3 ]
 then
-figlet "Mr.B4J1N64N"
+figlet "Mr.KINTIL"
 php mataharimall.php
 fi
 
 if [ $bro = 4 ] || [ $bro = 4 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.KINTIL"
 php hooq.php
 fi
 
 if [ $bro = 5 ] || [ $bro = 5 ]
 then
 clear
-toilet -f slant --gay "Mr.B4J1N64N"
+toilet -f slant --gay "KINTIL"
 php kfc.php
 fi
 
 if [ $bro = 6 ] || [ $bro = 6 ]
 then
 clear
-toilet -f mono12 -F gay "Mr.B4J1N64N"
+toilet -f mono12 -F gay "Mr.KINTIL"
 php phd.php
 fi
 
 if [ $bro = 7 ] || [ $bro = 7 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.KINTIL"
 php whiskas.php
 fi
 
 if [ $bro = 8 ] || [ $bro = 8 ]
 then
 clear
-figlet "Mr.B4J1N64N"
+figlet "KINTIL"
 php zipay.php
 fi
 
 if [ $bro = 9 ] || [ $bro = 9 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "KINTIL"
 php key.php
 fi
 
 if [ $bro = 10 ] || [ $bro = 10 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.KINTIL"
 python2 SpamMail.py
 fi
 
 if [ $bro = 11 ] || [ $bro = 11 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.KINTIL"
 python2 whs.py
 fi
 
 if [ $bro = 12 ] || [ $bro = 12 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.KINTIL"
 python2 upf.py
 fi
 
@@ -3317,7 +3317,7 @@ fi
 
 if [ $bro = 0 ] || [ $bro = 00 ]
 then
-echo "\033[32;1mDARKNESS CYBER TEAM"
+echo "\033[32;1mANONYMOUS ALL INDONESIA"
 sleep 1
 echo "\033[33;1mWe Security"
 sleep 1
