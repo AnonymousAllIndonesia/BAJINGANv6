@@ -418,7 +418,7 @@ echo "[===============================================]>"
 echo $cyan "192.> Install  Sarahah-XSS-Exploit "
 echo "[===============================================]>"
 echo $blue "193.> Install PHP-BackConnector"
-echo "[===============================================]>"
+echo "[==============================================]>"
 echo $red "194.> Install XEIT_Cyber "
 echo "[===============================================]>"
 echo $white "195.> Install BoxSosmed"
@@ -436,7 +436,7 @@ echo "[===============================================]>"
 echo $yellow "0.> keluar"
 echo "[+]===============================================[+]"
 echo "\033[32;1m"
-read -p "root@T00Ls-B4J1N64Nv6~#" bro
+read -p "root@Kintil~#" bro
 
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
